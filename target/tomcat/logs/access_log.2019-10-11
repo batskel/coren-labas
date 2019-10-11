@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:14:04:08 +0300] "GET /coren HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:14:04:09 +0300] "GET /coren/ HTTP/1.1" 200 1873 http-bio-8080-exec-3 634
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:14:04:09 +0300] "GET /coren/res/js/main.js HTTP/1.1" 200 - http-bio-8080-exec-2 22
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:14:04:09 +0300] "GET /coren/res/bootstrap/css/bootstrap-reboot.css HTTP/1.1" 200 4897 http-bio-8080-exec-7 20
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:14:04:09 +0300] "GET /coren/res/bootstrap/css/bootstrap-grid.css HTTP/1.1" 200 64548 http-bio-8080-exec-6 23
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:14:04:09 +0300] "GET /coren/res/bootstrap/css/bootstrap.css HTTP/1.1" 200 192348 http-bio-8080-exec-5 29
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:14:04:09 +0300] "GET /coren/res/jquery/jquery-3.4.1.js HTTP/1.1" 200 280364 http-bio-8080-exec-4 37
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:14:04:11 +0300] "GET /coren/get?code=programming%20languages HTTP/1.1" 200 1207 http-bio-8080-exec-4 128
+0:0:0:0:0:0:0:1 - - [11/Oct/2019:14:04:11 +0300] "GET /coren/getCode?code=programming%20languages HTTP/1.1" 200 75 http-bio-8080-exec-4 8
